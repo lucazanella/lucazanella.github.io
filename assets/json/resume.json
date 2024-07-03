@@ -26,6 +26,7 @@
     {
       "name": "University of Trento",
       "position": "Teaching Assistant",
+      "location": "Trento, Italy",
       "url": "https://www.unitn.it/",
       "startDate": "2024-02-26",
       "endDate": "2024-09-15",
@@ -34,6 +35,7 @@
     {
       "name": "Fondazione Bruno Kessler",
       "position": "Research Assistant",
+      "location": "Trento, Italy",
       "url": "https://www.fbk.eu/en/",
       "startDate": "2021-04-01",
       "endDate": "2022-10-31",
@@ -42,6 +44,7 @@
     {
       "name": "Huawei Technologies Duesseldorf GmbH",
       "position": "Master's Student Intern",
+      "location": "Munich, Germany",
       "url": "https://www.huawei.com/eu/",
       "startDate": "2020-03-01",
       "endDate": "2020-09-30",
@@ -50,6 +53,7 @@
     {
       "name": "CBA Group",
       "position": "Bachelor's Student Intern",
+      "location": "Rovereto, Italy",
       "url": "https://cba.it/",
       "startDate": "2018-02-01",
       "endDate": "2018-07-31",
