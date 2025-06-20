@@ -39,7 +39,7 @@
       "url": "https://www.fbk.eu/en/",
       "startDate": "2021-04-01",
       "endDate": "2022-10-31",
-      "summary": "Design, development, and experimental validation of software tools and platforms implementing deep learning algorithms for the automatic analysis of video surveillance streams produced by multiple cameras using PyTorch."
+      "summary": "Developed deep learning models for video surveillance analysis using PyTorch, including video anonymization, object detection, tracking, and anomaly detection."
     },
     {
       "name": "Huawei Technologies Duesseldorf GmbH",
@@ -48,7 +48,7 @@
       "url": "https://www.huawei.com/eu/",
       "startDate": "2020-03-01",
       "endDate": "2020-09-30",
-      "summary": "Definition, implementation, and experimental validation of deep learning algorithms utilizing satellite imagery to automatically correct road networks for microscopic traffic simulation using TensorFlow and Detectron2."
+      "summary": "Developed deep learning models using TensorFlow and Detectron2 to automatically correct road networks for microscopic traffic simulation from satellite imagery, reducing traffic simulation preparation time."
     },
     {
       "name": "CBA Group",
@@ -57,7 +57,7 @@
       "url": "https://cba.it/",
       "startDate": "2018-02-01",
       "endDate": "2018-07-31",
-      "summary": "Development of a client-server system to ingest data from distributed databases (electronic health records) to a centralized application for data quality monitoring using Spring Framework and PostgreSQL."
+      "summary": "Developed a client-server system for centralized data quality monitoring of electronic health records, integrating data from distributed databases using Spring Framework and PostgreSQL."
     }
 
   ],
@@ -66,10 +66,10 @@
       "institution": "University of Trento, Trento, Italy",
       "location": "Trento, Italy",
       "url": "https://www.unitn.it/",
-      "area": "Artificial Intelligence",
+      "area": "Machine Learning",
       "studyType": "PhD Student",
       "startDate": "2022-11-01",
-      "endDate": "2025-10-31"
+      "endDate": "Current"
     },
     {
       "institution": "University of Trento, Trento, Italy",
@@ -92,6 +92,20 @@
   ],
   "awards": [
     {
+      "title": "Outstanding Reviewer",
+      "date": "2025",
+      "awarder": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "url": "https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer",
+      "summary": ""
+    },
+    {
+      "title": "Excellent Innovation",
+      "date": "2024",
+      "awarder": "European Commission's Innovation Radar",
+      "url": "https://innovation-radar.ec.europa.eu/innovation/57412",
+      "summary": "Excellent Innovation awarded to VideoAnony, developed under the Horizon 2020 project MARVEL"
+    },
+    {
       "title": "Best Project Award",
       "date": "2023-09-22",
       "awarder": "ELLIS Summer School on Large-Scale AI",
@@ -101,6 +115,13 @@
   ],
   "publications": [
     {
+      "name": "Can Text-to-Video Generation help Video-Language Alignment?",
+      "publisher": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "releaseDate": "2025",
+      "url": "https://lucazanella.github.io/synvita/",
+      "summary": ""
+    },
+    {
       "name": "Harnessing Large Language Models for Training-free Video Anomaly Detection",
       "publisher": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
       "releaseDate": "2024",
@@ -109,8 +130,8 @@
     },
     {
       "name": "Delving into CLIP latent space for Video Anomaly Recognition",
-      "publisher": "preprint",
-      "releaseDate": "2023",
+      "publisher": "Computer Vision and Image Understanding",
+      "releaseDate": "2024",
       "url": "https://lucazanella.github.io/AnomalyCLIP/",
       "summary": ""
     },

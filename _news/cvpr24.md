@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[LAVAD](https://lucazanella.github.io/lavad/) got accepted at **CVPR 2024**!
+[LAVAD](https://lucazanella.github.io/lavad/) accepted to **CVPR 2024**!
