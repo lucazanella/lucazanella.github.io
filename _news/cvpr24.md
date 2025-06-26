@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[LAVAD](https://lucazanella.github.io/lavad/) accepted to **CVPR 2024**!
+Our paper ["Harnessing large language models for training-free video anomaly detection"](https://lucazanella.github.io/lavad/) is accepted to **CVPR 2024**!

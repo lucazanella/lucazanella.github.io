@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[AnomalyCLIP](https://lucazanella.github.io/AnomalyCLIP/) accepted to **Computer Vision and Image Understanding**!
+Our paper ["Delving into clip latent space for video anomaly recognition"](https://lucazanella.github.io/AnomalyCLIP/) is accepted to **CVIU**!
