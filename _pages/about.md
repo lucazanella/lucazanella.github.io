@@ -18,10 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Luca, a PhD student in the <a href="https://mhug.disi.unitn.it/">Multimedia and Human Understanding Group</a> at the University of Trento, Italy, supervised by Prof. <a href="https://eliricci.eu/">Elisa Ricci</a> and co-advised by Dr. <a href="https://mancinimassimiliano.github.io/">Massimiliano Mancini</a>.
-
-Before my doctoral studies, I was a research assistant at Fondazione Bruno Kessler, leading the development of video understanding technologies in the European projects MARVEL and PROTECTOR.
-
-My research focuses on vision-language models for understanding videos from diverse domains, including step grounding in instructional videos, video-language alignment using real and synthetic videos, and anomaly detection in surveillance footage.
+Hi! I am Luca, a PhD student in the <a href="https://mhug.disi.unitn.it/">Multimedia and Human Understanding Group</a> at the University of Trento, where I am advised by <a href="https://eliricci.eu/">Elisa Ricci</a> and co-advised by <a href="https://mancinimassimiliano.github.io/">Massimiliano Mancini</a>.
+My research focuses on vision-language models for video understanding, with applications ranging from step grounding in instructional videos to video-text alignment and anomaly detection in surveillance footage.
 
 Contact: `luca [dot] zanella-3 [at] unitn [dot] it`
