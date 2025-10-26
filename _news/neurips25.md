@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Training-free Online Video Step Grounding" is accepted to [**NeurIPS 2025**](https://neurips.cc/)!
+Our paper ["Training-free Online Video Step Grounding"](https://lucazanella.github.io/baglm/) is accepted to [**NeurIPS 2025**](https://neurips.cc/)!
